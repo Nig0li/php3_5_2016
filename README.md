@@ -1,7 +1,6 @@
 # php3_5_2016
 
-Исправлено 1 задание из предыдущего урока. 
-protected\Commands\Hello.php line 111
+Исправлено 1 задание из предыдущего урока - protected\Commands\Hello.php line 11
 
 Lesson 5.
 
